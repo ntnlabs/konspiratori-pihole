@@ -8,4 +8,3 @@ metrika.yandex.ru
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 ck.ads.oppomobile.com
-bdapi-ads.realmemobile.com
